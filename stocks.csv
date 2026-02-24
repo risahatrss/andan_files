@@ -1,0 +1,10 @@
+﻿plant_id;product_id;available
+msk;nb;500
+msk;pc;400
+msk;srv;50
+nnov;nb;800
+nnov;pc;250
+nnov;srv;30
+spb;nb;900
+spb;pc;400
+spb;srv;20
